@@ -1,0 +1,22 @@
+{
+  "name": "treinamento-everis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup:client": "cd client && yarn",
+    "setup:server": "cd server && yarn",
+    "setup": "yarn setup:client && yarn setup:server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfurfles/treinamento-everis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfurfles/treinamento-everis/issues"
+  },
+  "homepage": "https://github.com/kfurfles/treinamento-everis#readme"
+}
